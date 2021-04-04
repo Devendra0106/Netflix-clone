@@ -6,6 +6,10 @@ This project is developed using React.JS and TMDB API
 
 [Click Here](https://netflix-clone-42fcb.web.app/)
 
+## Screen Shots
+![image](https://user-images.githubusercontent.com/45028951/113507366-a5288b80-9567-11eb-9b47-2e30fe3f6ef4.png)
+
+![image](https://user-images.githubusercontent.com/45028951/113507397-bffb0000-9567-11eb-824c-6daaacf98ffe.png)
 
 ## Available Scripts
 
