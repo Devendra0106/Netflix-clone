@@ -3,7 +3,7 @@
 This project is developed using React.JS and TMDB API
 
 ## Live Demo
-
+### `App Deployed on Firebase`
 [Click Here](https://netflix-clone-42fcb.web.app/)
 
 ## Screen Shots
